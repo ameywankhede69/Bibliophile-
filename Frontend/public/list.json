@@ -1,0 +1,154 @@
+[
+    {
+        "id":1,
+        "name":"Harry Potter",
+        "title":"Children Fantasy by JK Rowling",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-befana-illustration_23-2149179946.jpg?t=st=1718991200~exp=1718994800~hmac=70240285262706500f91423613cb5dca5c6fda33212037e62fa5331bb8fc25dd&w=740"
+    },
+
+
+    {
+        "id":2,
+        "name":"Alice in Wonderland",
+        "title":"Classic by Lewis Caroll",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-enchanted-forest-illustration_23-2149373393.jpg?t=st=1718991694~exp=1718995294~hmac=8e0a2592e7186c50302cc86440928716012753ffb69fae1c816cc0d2c19df26d&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"The Jungle Book",
+        "title":"Children Fiction by Rudyard Kipling",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040276.jpg?t=st=1718991750~exp=1718995350~hmac=40a6339c3297ea3631fd8477b618a95988fc51a120096063f6e8ad425940aa59&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Murder of Roger Ackroyd",
+        "title":"Murder Mystery by Agatha Christie",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/silhouette-man-looking-new-york-city-buildings_23-2150820158.jpg?t=st=1718991890~exp=1718995490~hmac=7809c4cf0684500fda8561a33c684527bdd873f1aa59f722f344f8ad5249cd32&w=360"
+    },
+
+    {
+        "id":5,
+        "name":"Atomic Habits",
+        "title":"Self Help by James Clear",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/people-cliff-giving-himself-handshake_1160-629.jpg?t=st=1718991986~exp=1718995586~hmac=43fb0f15e18d23c4af711be746f97f67d0cc81615574572ca9dfe9858ba89cbc&w=1060"
+    },
+
+    {
+        "id":6,
+        "name":"Olympus",
+        "title":"Mythology by Devdutt Pattanaik",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/sun-god-depicted-as-powerful-man-renaissance-setting_23-2151296063.jpg?t=st=1718992089~exp=1718995689~hmac=76e3266cf210c48a76862e8949f78c3e65d98178aaeffbf1eccd8e32d84a54f3&w=1060"
+    },
+
+    {
+        "id":7,
+        "name":"Pride and Prejudice",
+        "title":"Classic by Jane Austen",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/international-kissing-day-celebration-with-couple_23-2151185233.jpg?t=st=1718992167~exp=1718995767~hmac=28eee4a1453bc832522b216192d50ef92eb9f354f3374b729c9a45f2bcc70c81&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"The Merchant of Venice",
+        "title":"Classic by William Shakespeare",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/carnival-scene-with-people-celebrating-enjoying-amusement_23-2151261540.jpg?t=st=1718992246~exp=1718995846~hmac=7ee0fa6899cb4d8dca085fdcba59699bb30b5ea939b5ef2556eea3a9e1ee59e1&w=360"
+    },
+
+    {
+        "id":9,
+        "name":"Mahabharata",
+        "title":"Indian Epic by Vedvyasa",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/painting-representing-krishna_23-2151073156.jpg?t=st=1718992342~exp=1718995942~hmac=878369ff54d705cfc6fe2e19576ab96a56cdb5906d2dae046c5af41b412c6c7f&w=1060"
+    },
+
+    {
+        "id":10,
+        "name":"The Forest of Enchantments",
+        "title":"Mythological fiction by Chitra Banerjee",
+        "price":100,
+        "category":"Subscrption",
+        "image":"https://img.freepik.com/free-photo/woman-celebrating-lohri-punjabi-folk-festival_23-2151020171.jpg?t=st=1718992469~exp=1718996069~hmac=cd1b4b5e4b0cc5d5d2de7c3945ad0ff893a945eab86a37131af97ee794f680a3&w=1060"
+    },
+
+    {
+        "id":11,
+        "name":"The God of Small Things",
+        "title":"Indian Classic by Arundhati Roy",
+        "price":200,
+        "category":"Subscription",
+        "image":"https://img.freepik.com/free-photo/photorealistic-scene-wild-elephants_23-2151436891.jpg?t=st=1718992644~exp=1718996244~hmac=3025848f3816fbfd22913e2e345ebaa92029506b90c67ab14c62cda2387fdc45&w=1060"
+    },
+    
+    {
+       "id":12,
+        "name":"The Discovery of India",
+        "title":"By Mahatma Gandhi",
+        "price":200,
+        "category":"Subscription",
+        "image":"https://img.freepik.com/free-photo/india-republic-day-celebration-digital-art-with-people_23-2151070790.jpg?t=st=1718992709~exp=1718996309~hmac=ab90c3dda4c01539a908bb95bb3188f9bb8bf01d48f40170faf6568d1415a4e9&w=1380"
+    },
+
+    {
+        "id":13,
+         "name":"Train to Pakistan",
+         "title":"Non-fiction by Khushwant Singh",
+         "price":700,
+         "category":"Subscription",
+         "image":"https://img.freepik.com/free-photo/cinematic-rendering-showing-great-migration_23-2151334704.jpg?t=st=1718993105~exp=1718996705~hmac=ee86a31d162dae5398dff9ec577f5add37c38771cadfe7abfe386c1c239807b3&w=1060"
+    },
+
+     {
+        "id":14,
+         "name":"A Taste of India",
+         "title":"Cookery book by Madhur Jaffery",
+         "price":900,
+         "category":"Subscription",
+         "image":"https://img.freepik.com/free-photo/view-indian-spices-arrangement_23-2148747645.jpg?t=st=1718993259~exp=1718996859~hmac=646fef45c842639598e6f9bdad58d34327ebc6e0189b69b596a32fb465e6e758&w=1060"
+     },
+
+     {
+        "id":15,
+         "name":"2 States",
+         "title":"Romantic Fiction by Chetan Bhagat",
+         "price":600,
+         "category":"Subscription",
+         "image":"https://img.freepik.com/free-photo/navratri-highly-detailed-candle-decoration_23-2151193681.jpg?t=st=1718993392~exp=1718996992~hmac=c16d1e0b7c74e500f3c37c651982b9bf982749aa1bd7fc2c98b938e90301aff6&w=1060"
+     },
+
+
+     {
+        "id":16,
+         "name":"Wings of Fire",
+         "title":"Autobiography by Dr. A.P.J Abdul Kalam",
+         "price":550,
+         "category":"Subscription",
+         "image":"https://img.freepik.com/free-photo/rocket-flying-through-space_23-2150378590.jpg?t=st=1718993470~exp=1718997070~hmac=67853e68e95198cd893ddeb75031e42d1678bcc586a24102984e55680709ff7d&w=360"
+     }
+
+    
+
+
+
+    
+
+]
